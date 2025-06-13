@@ -62,6 +62,7 @@ This interactive dashboard provides a comprehensive overview of student demograp
 
 ## 📷 Dashboard Preview
 
+![Dashboard Preview]()
 
 ---
 
