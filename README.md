@@ -1,5 +1,8 @@
 # 📊 Student Demographics and Academic Overview Dashboard
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+![Made with Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-yellow?logo=power-bi&logoColor=white)
+
 **Developer:** M. Akhil Sai  
 **Tool Used:** Power BI  
 **Batch:** 2021–25  
